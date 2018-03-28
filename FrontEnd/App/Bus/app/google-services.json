@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026312206752",
+    "firebase_url": "https://android-bus-ac5e3.firebaseio.com",
+    "project_id": "android-bus-ac5e3",
+    "storage_bucket": "android-bus-ac5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026312206752:android:4c419c4caf46d33e",
+        "android_client_info": {
+          "package_name": "com.bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026312206752-7km4c1mkfgp7n4vf9mm0fnn2ep02eiq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByAo5u9yEdKPP_76pJBQ6TA5AW5KaT3nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
