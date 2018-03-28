@@ -1,0 +1,8002 @@
+[
+ {
+   "RUID": 117016396,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:49"
+ },
+ {
+   "RUID": 195828016,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:34"
+ },
+ {
+   "RUID": 175032734,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:01"
+ },
+ {
+   "RUID": 117005647,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:03"
+ },
+ {
+   "RUID": 152459992,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:23"
+ },
+ {
+   "RUID": 144030104,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:35"
+ },
+ {
+   "RUID": 173651758,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:17"
+ },
+ {
+   "RUID": 119535185,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:47"
+ },
+ {
+   "RUID": 130774558,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:51"
+ },
+ {
+   "RUID": 125020016,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:19"
+ },
+ {
+   "RUID": 152167808,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:09"
+ },
+ {
+   "RUID": 189179627,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:26"
+ },
+ {
+   "RUID": 186257511,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:47"
+ },
+ {
+   "RUID": 156508138,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:38"
+ },
+ {
+   "RUID": 137021967,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:10"
+ },
+ {
+   "RUID": 158243035,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:34"
+ },
+ {
+   "RUID": 159620528,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:53"
+ },
+ {
+   "RUID": 176586624,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:01"
+ },
+ {
+   "RUID": 177118538,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:36"
+ },
+ {
+   "RUID": 184814712,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:52"
+ },
+ {
+   "RUID": 103158497,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:21"
+ },
+ {
+   "RUID": 141945025,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:18"
+ },
+ {
+   "RUID": 153317938,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:37"
+ },
+ {
+   "RUID": 143374828,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:00"
+ },
+ {
+   "RUID": 129584031,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:23"
+ },
+ {
+   "RUID": 140788526,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:17"
+ },
+ {
+   "RUID": 107486497,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:26"
+ },
+ {
+   "RUID": 199760656,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:42"
+ },
+ {
+   "RUID": 105035804,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:54"
+ },
+ {
+   "RUID": 122262118,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:56"
+ },
+ {
+   "RUID": 169274253,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:38"
+ },
+ {
+   "RUID": 184827302,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:26"
+ },
+ {
+   "RUID": 114514539,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:57"
+ },
+ {
+   "RUID": 120979885,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:29"
+ },
+ {
+   "RUID": 126211055,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:23"
+ },
+ {
+   "RUID": 107781398,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:31"
+ },
+ {
+   "RUID": 186077536,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:54"
+ },
+ {
+   "RUID": 126991563,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:26"
+ },
+ {
+   "RUID": 108592803,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:09"
+ },
+ {
+   "RUID": 163969030,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:55"
+ },
+ {
+   "RUID": 149079386,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:33"
+ },
+ {
+   "RUID": 185470998,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:46"
+ },
+ {
+   "RUID": 144673383,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:49"
+ },
+ {
+   "RUID": 176402355,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:27"
+ },
+ {
+   "RUID": 151862803,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:50"
+ },
+ {
+   "RUID": 199748381,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:00"
+ },
+ {
+   "RUID": 113794986,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:40"
+ },
+ {
+   "RUID": 145988078,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:09"
+ },
+ {
+   "RUID": 159859564,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:12"
+ },
+ {
+   "RUID": 171738905,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:31"
+ },
+ {
+   "RUID": 147641686,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:30"
+ },
+ {
+   "RUID": 165913487,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:18"
+ },
+ {
+   "RUID": 191000816,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:04"
+ },
+ {
+   "RUID": 181472221,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:12"
+ },
+ {
+   "RUID": 174282548,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:34"
+ },
+ {
+   "RUID": 103810022,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:29"
+ },
+ {
+   "RUID": 174521882,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:24"
+ },
+ {
+   "RUID": 138565729,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:29"
+ },
+ {
+   "RUID": 105051055,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:04"
+ },
+ {
+   "RUID": 111463014,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:15"
+ },
+ {
+   "RUID": 157938748,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:06"
+ },
+ {
+   "RUID": 103344564,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:41"
+ },
+ {
+   "RUID": 197277346,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:10"
+ },
+ {
+   "RUID": 180715836,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:54"
+ },
+ {
+   "RUID": 122220151,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:51"
+ },
+ {
+   "RUID": 137089419,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:00"
+ },
+ {
+   "RUID": 114500415,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:28"
+ },
+ {
+   "RUID": 144896491,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:10"
+ },
+ {
+   "RUID": 174917048,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:37"
+ },
+ {
+   "RUID": 176039714,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:10"
+ },
+ {
+   "RUID": 192611896,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:55"
+ },
+ {
+   "RUID": 146281261,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:40"
+ },
+ {
+   "RUID": 101540023,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:26"
+ },
+ {
+   "RUID": 144392468,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:36"
+ },
+ {
+   "RUID": 156860949,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:59"
+ },
+ {
+   "RUID": 158366664,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:50"
+ },
+ {
+   "RUID": 101348817,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:18"
+ },
+ {
+   "RUID": 157237432,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:21"
+ },
+ {
+   "RUID": 151482545,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:54"
+ },
+ {
+   "RUID": 104309771,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:29"
+ },
+ {
+   "RUID": 170510967,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:28"
+ },
+ {
+   "RUID": 190067044,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:42"
+ },
+ {
+   "RUID": 139352976,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:17"
+ },
+ {
+   "RUID": 154742147,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:42"
+ },
+ {
+   "RUID": 100927878,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:16"
+ },
+ {
+   "RUID": 139799011,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:45"
+ },
+ {
+   "RUID": 146086933,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:57"
+ },
+ {
+   "RUID": 107133650,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:26"
+ },
+ {
+   "RUID": 167926526,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:34"
+ },
+ {
+   "RUID": 132916531,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:29"
+ },
+ {
+   "RUID": 105827658,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:33"
+ },
+ {
+   "RUID": 169865417,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:48"
+ },
+ {
+   "RUID": 108287518,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:23"
+ },
+ {
+   "RUID": 189977902,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:53"
+ },
+ {
+   "RUID": 169809709,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:42"
+ },
+ {
+   "RUID": 182065105,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:02"
+ },
+ {
+   "RUID": 106140887,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:31"
+ },
+ {
+   "RUID": 197503897,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:04"
+ },
+ {
+   "RUID": 127250524,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:54"
+ },
+ {
+   "RUID": 186929975,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:41"
+ },
+ {
+   "RUID": 123187251,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:13"
+ },
+ {
+   "RUID": 120024754,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:34"
+ },
+ {
+   "RUID": 179420569,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:43"
+ },
+ {
+   "RUID": 173826268,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:43"
+ },
+ {
+   "RUID": 101310329,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:10"
+ },
+ {
+   "RUID": 163975568,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:41"
+ },
+ {
+   "RUID": 117434901,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:05"
+ },
+ {
+   "RUID": 115801961,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:18"
+ },
+ {
+   "RUID": 129917647,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:35"
+ },
+ {
+   "RUID": 105093874,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:12"
+ },
+ {
+   "RUID": 163509620,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:24"
+ },
+ {
+   "RUID": 179277134,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:57"
+ },
+ {
+   "RUID": 122480527,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:17"
+ },
+ {
+   "RUID": 129129840,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:25"
+ },
+ {
+   "RUID": 184594860,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:01"
+ },
+ {
+   "RUID": 133466777,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:12"
+ },
+ {
+   "RUID": 134365295,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:15"
+ },
+ {
+   "RUID": 187210714,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:37"
+ },
+ {
+   "RUID": 196462041,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:47"
+ },
+ {
+   "RUID": 181977501,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:35"
+ },
+ {
+   "RUID": 181357684,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:19"
+ },
+ {
+   "RUID": 178429931,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:08"
+ },
+ {
+   "RUID": 134641413,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:11"
+ },
+ {
+   "RUID": 144103227,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:31"
+ },
+ {
+   "RUID": 145749620,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:37"
+ },
+ {
+   "RUID": 197248016,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:25"
+ },
+ {
+   "RUID": 147887599,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:28"
+ },
+ {
+   "RUID": 168609716,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:40"
+ },
+ {
+   "RUID": 191116043,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:52"
+ },
+ {
+   "RUID": 102580926,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:00"
+ },
+ {
+   "RUID": 165735309,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:01"
+ },
+ {
+   "RUID": 137907537,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:08"
+ },
+ {
+   "RUID": 175526929,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:49"
+ },
+ {
+   "RUID": 175373955,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:08"
+ },
+ {
+   "RUID": 148384171,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:52"
+ },
+ {
+   "RUID": 125782472,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:24"
+ },
+ {
+   "RUID": 102675536,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:48"
+ },
+ {
+   "RUID": 102759394,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:10"
+ },
+ {
+   "RUID": 110268794,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:08"
+ },
+ {
+   "RUID": 198574947,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:42"
+ },
+ {
+   "RUID": 112618253,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:26"
+ },
+ {
+   "RUID": 112343836,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:56"
+ },
+ {
+   "RUID": 196258210,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:19"
+ },
+ {
+   "RUID": 182636653,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:10"
+ },
+ {
+   "RUID": 113151416,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:18"
+ },
+ {
+   "RUID": 184855946,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:01"
+ },
+ {
+   "RUID": 152213203,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:11"
+ },
+ {
+   "RUID": 180540348,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:40"
+ },
+ {
+   "RUID": 132102269,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:17"
+ },
+ {
+   "RUID": 187100414,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:52"
+ },
+ {
+   "RUID": 115481438,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:58"
+ },
+ {
+   "RUID": 176033955,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:04"
+ },
+ {
+   "RUID": 119483058,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:28"
+ },
+ {
+   "RUID": 190935604,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:53"
+ },
+ {
+   "RUID": 131470675,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:53"
+ },
+ {
+   "RUID": 172289792,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:46"
+ },
+ {
+   "RUID": 177518297,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:46"
+ },
+ {
+   "RUID": 133730566,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:53"
+ },
+ {
+   "RUID": 112661879,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:52"
+ },
+ {
+   "RUID": 149364975,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:31"
+ },
+ {
+   "RUID": 143208490,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:38"
+ },
+ {
+   "RUID": 160275952,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:45"
+ },
+ {
+   "RUID": 165548390,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:14"
+ },
+ {
+   "RUID": 122059478,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:26"
+ },
+ {
+   "RUID": 158068335,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:22"
+ },
+ {
+   "RUID": 161402151,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:32"
+ },
+ {
+   "RUID": 111770092,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:50"
+ },
+ {
+   "RUID": 110107321,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:19"
+ },
+ {
+   "RUID": 167741630,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:49"
+ },
+ {
+   "RUID": 151096572,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:53"
+ },
+ {
+   "RUID": 104589578,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:28"
+ },
+ {
+   "RUID": 191942306,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:48"
+ },
+ {
+   "RUID": 164562448,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:34"
+ },
+ {
+   "RUID": 153376689,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:09"
+ },
+ {
+   "RUID": 147465997,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:28"
+ },
+ {
+   "RUID": 117527076,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:33"
+ },
+ {
+   "RUID": 174836372,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:19"
+ },
+ {
+   "RUID": 123020301,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:07"
+ },
+ {
+   "RUID": 198815828,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:28"
+ },
+ {
+   "RUID": 129138129,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:51"
+ },
+ {
+   "RUID": 134003007,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:30"
+ },
+ {
+   "RUID": 156380445,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:18"
+ },
+ {
+   "RUID": 159766391,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:48"
+ },
+ {
+   "RUID": 170866448,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:47"
+ },
+ {
+   "RUID": 112904560,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:50"
+ },
+ {
+   "RUID": 143264293,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:37"
+ },
+ {
+   "RUID": 152187700,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:31"
+ },
+ {
+   "RUID": 139553245,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:08"
+ },
+ {
+   "RUID": 143905204,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:33"
+ },
+ {
+   "RUID": 132391526,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:43"
+ },
+ {
+   "RUID": 144230455,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:42"
+ },
+ {
+   "RUID": 114958537,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:34"
+ },
+ {
+   "RUID": 174665451,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:57"
+ },
+ {
+   "RUID": 125447926,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:55"
+ },
+ {
+   "RUID": 106433491,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:53"
+ },
+ {
+   "RUID": 143896166,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:29"
+ },
+ {
+   "RUID": 145500947,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:23"
+ },
+ {
+   "RUID": 153915328,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:21"
+ },
+ {
+   "RUID": 132473066,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:34"
+ },
+ {
+   "RUID": 129920638,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:30"
+ },
+ {
+   "RUID": 134399013,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:17"
+ },
+ {
+   "RUID": 140484802,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:43"
+ },
+ {
+   "RUID": 192974351,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:51"
+ },
+ {
+   "RUID": 177418133,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:49"
+ },
+ {
+   "RUID": 172882140,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:14"
+ },
+ {
+   "RUID": 137425501,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:37"
+ },
+ {
+   "RUID": 179114628,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:20"
+ },
+ {
+   "RUID": 112895890,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:01"
+ },
+ {
+   "RUID": 104815629,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:10"
+ },
+ {
+   "RUID": 127469919,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:59"
+ },
+ {
+   "RUID": 154321517,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:10"
+ },
+ {
+   "RUID": 133608185,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:09"
+ },
+ {
+   "RUID": 174120866,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:58"
+ },
+ {
+   "RUID": 138721239,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:17"
+ },
+ {
+   "RUID": 140553381,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:52"
+ },
+ {
+   "RUID": 112525899,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:52"
+ },
+ {
+   "RUID": 151155349,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:08"
+ },
+ {
+   "RUID": 179767651,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:29"
+ },
+ {
+   "RUID": 158518035,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:05"
+ },
+ {
+   "RUID": 151118202,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:27"
+ },
+ {
+   "RUID": 136393315,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:35"
+ },
+ {
+   "RUID": 126676087,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:25"
+ },
+ {
+   "RUID": 147331600,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:27"
+ },
+ {
+   "RUID": 139241549,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:18"
+ },
+ {
+   "RUID": 137039201,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:29"
+ },
+ {
+   "RUID": 111287625,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:30"
+ },
+ {
+   "RUID": 198127534,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:52"
+ },
+ {
+   "RUID": 110835835,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:12"
+ },
+ {
+   "RUID": 176244475,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:40"
+ },
+ {
+   "RUID": 105307234,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:14"
+ },
+ {
+   "RUID": 180941241,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:50"
+ },
+ {
+   "RUID": 115964302,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:50"
+ },
+ {
+   "RUID": 104141827,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:35"
+ },
+ {
+   "RUID": 163767579,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:51"
+ },
+ {
+   "RUID": 194737355,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:58"
+ },
+ {
+   "RUID": 128930926,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:22"
+ },
+ {
+   "RUID": 168533156,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:38"
+ },
+ {
+   "RUID": 151384883,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:03"
+ },
+ {
+   "RUID": 189158510,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:17"
+ },
+ {
+   "RUID": 139233315,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:14"
+ },
+ {
+   "RUID": 174118110,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:39"
+ },
+ {
+   "RUID": 100646685,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:37"
+ },
+ {
+   "RUID": 144485078,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:27"
+ },
+ {
+   "RUID": 149676573,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:51"
+ },
+ {
+   "RUID": 104200933,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:33"
+ },
+ {
+   "RUID": 197615839,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:46"
+ },
+ {
+   "RUID": 102869749,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:11"
+ },
+ {
+   "RUID": 119909428,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:10"
+ },
+ {
+   "RUID": 100722930,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:48"
+ },
+ {
+   "RUID": 155040851,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:26"
+ },
+ {
+   "RUID": 122500756,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:59"
+ },
+ {
+   "RUID": 112746687,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:10"
+ },
+ {
+   "RUID": 173404454,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:53"
+ },
+ {
+   "RUID": 163873266,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:39"
+ },
+ {
+   "RUID": 151651276,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:19"
+ },
+ {
+   "RUID": 107070516,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:35"
+ },
+ {
+   "RUID": 188143213,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:02"
+ },
+ {
+   "RUID": 152676543,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:21"
+ },
+ {
+   "RUID": 158612018,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:31"
+ },
+ {
+   "RUID": 133762310,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:59"
+ },
+ {
+   "RUID": 144836447,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:58"
+ },
+ {
+   "RUID": 143473465,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:22"
+ },
+ {
+   "RUID": 149098080,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:34"
+ },
+ {
+   "RUID": 151936084,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:24"
+ },
+ {
+   "RUID": 176230898,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:25"
+ },
+ {
+   "RUID": 124146044,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:31"
+ },
+ {
+   "RUID": 190184540,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:32"
+ },
+ {
+   "RUID": 133140927,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:35"
+ },
+ {
+   "RUID": 131564299,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:39"
+ },
+ {
+   "RUID": 113798621,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:04"
+ },
+ {
+   "RUID": 198414786,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:23"
+ },
+ {
+   "RUID": 106511149,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:24"
+ },
+ {
+   "RUID": 118057690,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:45"
+ },
+ {
+   "RUID": 112898647,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:04"
+ },
+ {
+   "RUID": 152776877,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:11"
+ },
+ {
+   "RUID": 181349760,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:00"
+ },
+ {
+   "RUID": 177398163,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:47"
+ },
+ {
+   "RUID": 130762998,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:52"
+ },
+ {
+   "RUID": 113048772,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:45"
+ },
+ {
+   "RUID": 196044535,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:09"
+ },
+ {
+   "RUID": 171519531,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:27"
+ },
+ {
+   "RUID": 131181948,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:32"
+ },
+ {
+   "RUID": 159858167,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:14"
+ },
+ {
+   "RUID": 152805444,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:20"
+ },
+ {
+   "RUID": 142789631,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:49"
+ },
+ {
+   "RUID": 152866764,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:19"
+ },
+ {
+   "RUID": 138973973,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:45"
+ },
+ {
+   "RUID": 107602896,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:04"
+ },
+ {
+   "RUID": 121339528,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:44"
+ },
+ {
+   "RUID": 121693418,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:20"
+ },
+ {
+   "RUID": 195452260,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:31"
+ },
+ {
+   "RUID": 112439186,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:47"
+ },
+ {
+   "RUID": 129968858,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:22"
+ },
+ {
+   "RUID": 129044751,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:55"
+ },
+ {
+   "RUID": 188654126,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:42"
+ },
+ {
+   "RUID": 191669746,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:36"
+ },
+ {
+   "RUID": 142386179,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:49"
+ },
+ {
+   "RUID": 126416507,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:35"
+ },
+ {
+   "RUID": 187167214,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:16"
+ },
+ {
+   "RUID": 186921337,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:55"
+ },
+ {
+   "RUID": 162817449,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:33"
+ },
+ {
+   "RUID": 174855101,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:43"
+ },
+ {
+   "RUID": 174925081,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:51"
+ },
+ {
+   "RUID": 135974850,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:49"
+ },
+ {
+   "RUID": 191091435,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:14"
+ },
+ {
+   "RUID": 194957978,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:56"
+ },
+ {
+   "RUID": 161837814,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:13"
+ },
+ {
+   "RUID": 123443769,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:57"
+ },
+ {
+   "RUID": 171759294,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:36"
+ },
+ {
+   "RUID": 154740213,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:10"
+ },
+ {
+   "RUID": 118183119,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:05"
+ },
+ {
+   "RUID": 168091106,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:59"
+ },
+ {
+   "RUID": 104886788,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:44"
+ },
+ {
+   "RUID": 110983767,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:37"
+ },
+ {
+   "RUID": 180292764,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:02"
+ },
+ {
+   "RUID": 195174518,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:58"
+ },
+ {
+   "RUID": 187010231,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:18"
+ },
+ {
+   "RUID": 157556430,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:26"
+ },
+ {
+   "RUID": 141305170,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:55"
+ },
+ {
+   "RUID": 136755974,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:45"
+ },
+ {
+   "RUID": 186535645,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:25"
+ },
+ {
+   "RUID": 185028211,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:15"
+ },
+ {
+   "RUID": 128034343,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:30"
+ },
+ {
+   "RUID": 118321785,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:55"
+ },
+ {
+   "RUID": 128787940,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:58"
+ },
+ {
+   "RUID": 106301405,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:39"
+ },
+ {
+   "RUID": 195932173,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:59"
+ },
+ {
+   "RUID": 116774080,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:23"
+ },
+ {
+   "RUID": 155231086,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:57"
+ },
+ {
+   "RUID": 128530075,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:00"
+ },
+ {
+   "RUID": 106227568,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:10"
+ },
+ {
+   "RUID": 180681156,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:44"
+ },
+ {
+   "RUID": 109329266,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:01"
+ },
+ {
+   "RUID": 161032966,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:44"
+ },
+ {
+   "RUID": 137607418,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:25"
+ },
+ {
+   "RUID": 169360924,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:05"
+ },
+ {
+   "RUID": 157097712,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:29"
+ },
+ {
+   "RUID": 161513975,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:54"
+ },
+ {
+   "RUID": 138384066,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:10"
+ },
+ {
+   "RUID": 146655329,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:49"
+ },
+ {
+   "RUID": 173878899,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:17"
+ },
+ {
+   "RUID": 137189744,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:21"
+ },
+ {
+   "RUID": 139050552,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:33"
+ },
+ {
+   "RUID": 105528974,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:39"
+ },
+ {
+   "RUID": 117130750,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:47"
+ },
+ {
+   "RUID": 101805494,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:58"
+ },
+ {
+   "RUID": 169780637,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:11"
+ },
+ {
+   "RUID": 163476553,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:06"
+ },
+ {
+   "RUID": 103009095,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:05"
+ },
+ {
+   "RUID": 183912165,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:17"
+ },
+ {
+   "RUID": 167181573,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:11"
+ },
+ {
+   "RUID": 180982517,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:29"
+ },
+ {
+   "RUID": 133087142,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:25"
+ },
+ {
+   "RUID": 130792257,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:02"
+ },
+ {
+   "RUID": 107888561,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:14"
+ },
+ {
+   "RUID": 119036322,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:12"
+ },
+ {
+   "RUID": 148978908,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:20"
+ },
+ {
+   "RUID": 166347892,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:22"
+ },
+ {
+   "RUID": 113605165,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:32"
+ },
+ {
+   "RUID": 119249672,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:45"
+ },
+ {
+   "RUID": 191530987,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:03"
+ },
+ {
+   "RUID": 147338047,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:05"
+ },
+ {
+   "RUID": 159706998,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:31"
+ },
+ {
+   "RUID": 115100241,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:21"
+ },
+ {
+   "RUID": 115740677,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:17"
+ },
+ {
+   "RUID": 175334432,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:29"
+ },
+ {
+   "RUID": 180460843,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:26"
+ },
+ {
+   "RUID": 196743066,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:53"
+ },
+ {
+   "RUID": 170225406,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:05"
+ },
+ {
+   "RUID": 181799973,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:25"
+ },
+ {
+   "RUID": 187685498,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:19"
+ },
+ {
+   "RUID": 190312396,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:54"
+ },
+ {
+   "RUID": 192370868,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:51"
+ },
+ {
+   "RUID": 161095590,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:59"
+ },
+ {
+   "RUID": 134175653,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:59"
+ },
+ {
+   "RUID": 181544821,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:57"
+ },
+ {
+   "RUID": 132814290,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:42"
+ },
+ {
+   "RUID": 174893833,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:18"
+ },
+ {
+   "RUID": 111435327,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:43"
+ },
+ {
+   "RUID": 193877830,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:38"
+ },
+ {
+   "RUID": 127185520,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:37"
+ },
+ {
+   "RUID": 171595366,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:36"
+ },
+ {
+   "RUID": 163649956,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:00"
+ },
+ {
+   "RUID": 159956960,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:44"
+ },
+ {
+   "RUID": 154031992,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:12"
+ },
+ {
+   "RUID": 141659372,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:46"
+ },
+ {
+   "RUID": 110121271,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:23"
+ },
+ {
+   "RUID": 199156262,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:22"
+ },
+ {
+   "RUID": 172615362,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:43"
+ },
+ {
+   "RUID": 108203772,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:29"
+ },
+ {
+   "RUID": 109767952,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:04"
+ },
+ {
+   "RUID": 108744191,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:29"
+ },
+ {
+   "RUID": 154652314,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:06"
+ },
+ {
+   "RUID": 116833570,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:11"
+ },
+ {
+   "RUID": 108509033,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:51"
+ },
+ {
+   "RUID": 199029408,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:46"
+ },
+ {
+   "RUID": 180666411,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:13"
+ },
+ {
+   "RUID": 159689850,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:18"
+ },
+ {
+   "RUID": 170987748,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:16"
+ },
+ {
+   "RUID": 141892222,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:36"
+ },
+ {
+   "RUID": 170649635,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:26"
+ },
+ {
+   "RUID": 164798311,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:49"
+ },
+ {
+   "RUID": 165676374,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:00"
+ },
+ {
+   "RUID": 138846831,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:19"
+ },
+ {
+   "RUID": 195030150,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:07"
+ },
+ {
+   "RUID": 119383375,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:20"
+ },
+ {
+   "RUID": 155931670,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:33"
+ },
+ {
+   "RUID": 149210049,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:14"
+ },
+ {
+   "RUID": 128315075,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:28"
+ },
+ {
+   "RUID": 167715384,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:57"
+ },
+ {
+   "RUID": 190905946,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:20"
+ },
+ {
+   "RUID": 105438139,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:49"
+ },
+ {
+   "RUID": 139173671,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:47"
+ },
+ {
+   "RUID": 156323198,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:47"
+ },
+ {
+   "RUID": 152298245,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:42"
+ },
+ {
+   "RUID": 126219709,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:22"
+ },
+ {
+   "RUID": 133519762,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:20"
+ },
+ {
+   "RUID": 149410717,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:28"
+ },
+ {
+   "RUID": 128248344,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:04"
+ },
+ {
+   "RUID": 181176555,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:39"
+ },
+ {
+   "RUID": 174062243,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:33"
+ },
+ {
+   "RUID": 169562813,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:11"
+ },
+ {
+   "RUID": 141552980,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:40"
+ },
+ {
+   "RUID": 173858308,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:40"
+ },
+ {
+   "RUID": 152088239,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:54"
+ },
+ {
+   "RUID": 109087833,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:17"
+ },
+ {
+   "RUID": 151356158,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:43"
+ },
+ {
+   "RUID": 147094711,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:51"
+ },
+ {
+   "RUID": 175496461,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:03"
+ },
+ {
+   "RUID": 125073147,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:25"
+ },
+ {
+   "RUID": 127566728,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:35"
+ },
+ {
+   "RUID": 177721063,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:42"
+ },
+ {
+   "RUID": 127073333,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:18"
+ },
+ {
+   "RUID": 191633429,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:55"
+ },
+ {
+   "RUID": 135957414,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:13"
+ },
+ {
+   "RUID": 116118654,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:47"
+ },
+ {
+   "RUID": 132343393,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:36"
+ },
+ {
+   "RUID": 190808013,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:04"
+ },
+ {
+   "RUID": 190913111,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:00"
+ },
+ {
+   "RUID": 182187570,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:35"
+ },
+ {
+   "RUID": 115209648,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:33"
+ },
+ {
+   "RUID": 148830262,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:47"
+ },
+ {
+   "RUID": 170711334,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:49"
+ },
+ {
+   "RUID": 121058559,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:37"
+ },
+ {
+   "RUID": 134304220,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:34"
+ },
+ {
+   "RUID": 105181119,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:09"
+ },
+ {
+   "RUID": 115713876,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:57"
+ },
+ {
+   "RUID": 193592605,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:56"
+ },
+ {
+   "RUID": 194401999,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:12"
+ },
+ {
+   "RUID": 182355164,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:54"
+ },
+ {
+   "RUID": 111927647,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:24"
+ },
+ {
+   "RUID": 127432871,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:49"
+ },
+ {
+   "RUID": 196052160,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:44"
+ },
+ {
+   "RUID": 128159422,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:26"
+ },
+ {
+   "RUID": 131388913,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:27"
+ },
+ {
+   "RUID": 195814705,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:21"
+ },
+ {
+   "RUID": 161049907,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:06"
+ },
+ {
+   "RUID": 128994183,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:55"
+ },
+ {
+   "RUID": 160437919,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:11"
+ },
+ {
+   "RUID": 168133966,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:30"
+ },
+ {
+   "RUID": 111080014,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:10"
+ },
+ {
+   "RUID": 175857560,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:40"
+ },
+ {
+   "RUID": 183494535,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:47"
+ },
+ {
+   "RUID": 120482398,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:02"
+ },
+ {
+   "RUID": 114087745,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:37"
+ },
+ {
+   "RUID": 162044967,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:06"
+ },
+ {
+   "RUID": 156162391,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:56"
+ },
+ {
+   "RUID": 133324261,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:14"
+ },
+ {
+   "RUID": 187295388,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:06"
+ },
+ {
+   "RUID": 146995375,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:03"
+ },
+ {
+   "RUID": 145413563,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:04"
+ },
+ {
+   "RUID": 163994057,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:48"
+ },
+ {
+   "RUID": 100383713,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:25"
+ },
+ {
+   "RUID": 154487869,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:08"
+ },
+ {
+   "RUID": 149094700,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:01"
+ },
+ {
+   "RUID": 176776649,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:23"
+ },
+ {
+   "RUID": 186371521,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:43"
+ },
+ {
+   "RUID": 104591916,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:34"
+ },
+ {
+   "RUID": 151193126,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:51"
+ },
+ {
+   "RUID": 121034458,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:13"
+ },
+ {
+   "RUID": 110504485,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:29"
+ },
+ {
+   "RUID": 185596466,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:22"
+ },
+ {
+   "RUID": 158048426,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:29"
+ },
+ {
+   "RUID": 197331783,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:56"
+ },
+ {
+   "RUID": 119145156,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:49"
+ },
+ {
+   "RUID": 104144952,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:56"
+ },
+ {
+   "RUID": 122899623,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:37"
+ },
+ {
+   "RUID": 106764303,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:13"
+ },
+ {
+   "RUID": 172477461,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:12"
+ },
+ {
+   "RUID": 166826665,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:59"
+ },
+ {
+   "RUID": 178699882,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:26"
+ },
+ {
+   "RUID": 114712000,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:28"
+ },
+ {
+   "RUID": 141672777,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:14"
+ },
+ {
+   "RUID": 189955825,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:51"
+ },
+ {
+   "RUID": 151804960,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:48"
+ },
+ {
+   "RUID": 161237418,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:11"
+ },
+ {
+   "RUID": 109459960,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:41"
+ },
+ {
+   "RUID": 109177561,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:59"
+ },
+ {
+   "RUID": 141902761,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:14"
+ },
+ {
+   "RUID": 125007117,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:11"
+ },
+ {
+   "RUID": 142416833,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:53"
+ },
+ {
+   "RUID": 167119854,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:09"
+ },
+ {
+   "RUID": 159962561,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:03"
+ },
+ {
+   "RUID": 187542604,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:49"
+ },
+ {
+   "RUID": 199892110,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:59"
+ },
+ {
+   "RUID": 195185138,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:44"
+ },
+ {
+   "RUID": 158449085,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:51"
+ },
+ {
+   "RUID": 196949670,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:52"
+ },
+ {
+   "RUID": 106133004,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:58"
+ },
+ {
+   "RUID": 155409224,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:58"
+ },
+ {
+   "RUID": 102425437,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:55"
+ },
+ {
+   "RUID": 196841698,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:54"
+ },
+ {
+   "RUID": 193074345,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:11"
+ },
+ {
+   "RUID": 109511457,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:21"
+ },
+ {
+   "RUID": 191858407,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:19"
+ },
+ {
+   "RUID": 162334427,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:47"
+ },
+ {
+   "RUID": 145635089,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:10"
+ },
+ {
+   "RUID": 171488954,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:20"
+ },
+ {
+   "RUID": 196890326,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:31"
+ },
+ {
+   "RUID": 109026933,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:53"
+ },
+ {
+   "RUID": 190502324,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:53"
+ },
+ {
+   "RUID": 191266098,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:50"
+ },
+ {
+   "RUID": 176760420,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:13"
+ },
+ {
+   "RUID": 193242477,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:16"
+ },
+ {
+   "RUID": 189323833,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:18"
+ },
+ {
+   "RUID": 106810792,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:05"
+ },
+ {
+   "RUID": 119375896,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:08"
+ },
+ {
+   "RUID": 133389689,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:29"
+ },
+ {
+   "RUID": 189064165,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:36"
+ },
+ {
+   "RUID": 158199334,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:17"
+ },
+ {
+   "RUID": 179556332,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:01"
+ },
+ {
+   "RUID": 150579490,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:01"
+ },
+ {
+   "RUID": 111570210,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:25"
+ },
+ {
+   "RUID": 135132441,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:10"
+ },
+ {
+   "RUID": 179096788,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:59"
+ },
+ {
+   "RUID": 101064895,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:18"
+ },
+ {
+   "RUID": 171354192,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:12"
+ },
+ {
+   "RUID": 180946910,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:23"
+ },
+ {
+   "RUID": 159789222,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:17"
+ },
+ {
+   "RUID": 140833739,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:45"
+ },
+ {
+   "RUID": 162687953,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:47"
+ },
+ {
+   "RUID": 156191178,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:53"
+ },
+ {
+   "RUID": 122933229,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:12"
+ },
+ {
+   "RUID": 103689579,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:36"
+ },
+ {
+   "RUID": 161525227,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:05"
+ },
+ {
+   "RUID": 109676426,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:24"
+ },
+ {
+   "RUID": 189885002,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:34"
+ },
+ {
+   "RUID": 126252978,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:17"
+ },
+ {
+   "RUID": 124905936,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:10"
+ },
+ {
+   "RUID": 150956344,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:08"
+ },
+ {
+   "RUID": 172996467,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:18"
+ },
+ {
+   "RUID": 185800366,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:44"
+ },
+ {
+   "RUID": 126511980,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:52"
+ },
+ {
+   "RUID": 171615423,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:58"
+ },
+ {
+   "RUID": 136616863,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:53"
+ },
+ {
+   "RUID": 173473594,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:58"
+ },
+ {
+   "RUID": 181569116,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:18"
+ },
+ {
+   "RUID": 126073281,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:48"
+ },
+ {
+   "RUID": 162141744,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:26"
+ },
+ {
+   "RUID": 186094004,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:15"
+ },
+ {
+   "RUID": 112504731,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:54"
+ },
+ {
+   "RUID": 124029696,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:21"
+ },
+ {
+   "RUID": 161532384,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:53"
+ },
+ {
+   "RUID": 176009302,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:37"
+ },
+ {
+   "RUID": 129738102,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:03"
+ },
+ {
+   "RUID": 176176729,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:52"
+ },
+ {
+   "RUID": 163149623,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:02"
+ },
+ {
+   "RUID": 101886762,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:08"
+ },
+ {
+   "RUID": 129058087,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:10"
+ },
+ {
+   "RUID": 103801664,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:40"
+ },
+ {
+   "RUID": 189477444,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:38"
+ },
+ {
+   "RUID": 141672750,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:27"
+ },
+ {
+   "RUID": 164861752,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:48"
+ },
+ {
+   "RUID": 159065791,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:18"
+ },
+ {
+   "RUID": 121799681,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:23"
+ },
+ {
+   "RUID": 155817817,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:19"
+ },
+ {
+   "RUID": 162342747,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:11"
+ },
+ {
+   "RUID": 185339870,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:22"
+ },
+ {
+   "RUID": 190037651,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:13"
+ },
+ {
+   "RUID": 192660783,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:15"
+ },
+ {
+   "RUID": 195149528,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:19"
+ },
+ {
+   "RUID": 190131865,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:25"
+ },
+ {
+   "RUID": 145739656,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:20"
+ },
+ {
+   "RUID": 160225272,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:11"
+ },
+ {
+   "RUID": 125497998,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:11"
+ },
+ {
+   "RUID": 124280177,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:23"
+ },
+ {
+   "RUID": 104960310,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:27"
+ },
+ {
+   "RUID": 193034695,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:58"
+ },
+ {
+   "RUID": 122735017,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:38"
+ },
+ {
+   "RUID": 101526397,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:18"
+ },
+ {
+   "RUID": 182860375,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:06"
+ },
+ {
+   "RUID": 115677638,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:59"
+ },
+ {
+   "RUID": 137309264,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:35"
+ },
+ {
+   "RUID": 156707032,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:04"
+ },
+ {
+   "RUID": 163337104,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:37"
+ },
+ {
+   "RUID": 188978352,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:29"
+ },
+ {
+   "RUID": 146247900,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:56"
+ },
+ {
+   "RUID": 152430712,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:23"
+ },
+ {
+   "RUID": 112923728,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:59"
+ },
+ {
+   "RUID": 147774599,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:36"
+ },
+ {
+   "RUID": 129210329,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:38"
+ },
+ {
+   "RUID": 127725595,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:03"
+ },
+ {
+   "RUID": 166877266,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:33"
+ },
+ {
+   "RUID": 134944617,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:46"
+ },
+ {
+   "RUID": 197857795,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:57"
+ },
+ {
+   "RUID": 115344888,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:34"
+ },
+ {
+   "RUID": 116473591,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:29"
+ },
+ {
+   "RUID": 132457470,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:21"
+ },
+ {
+   "RUID": 161324065,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:10"
+ },
+ {
+   "RUID": 192700977,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:58"
+ },
+ {
+   "RUID": 174786990,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:35"
+ },
+ {
+   "RUID": 150624720,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:55"
+ },
+ {
+   "RUID": 101443823,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:33"
+ },
+ {
+   "RUID": 148359763,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:18"
+ },
+ {
+   "RUID": 178308304,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:05"
+ },
+ {
+   "RUID": 105052027,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:31"
+ },
+ {
+   "RUID": 169150246,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:33"
+ },
+ {
+   "RUID": 189406270,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:25"
+ },
+ {
+   "RUID": 104933775,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:52"
+ },
+ {
+   "RUID": 172788316,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:12"
+ },
+ {
+   "RUID": 147594846,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:25"
+ },
+ {
+   "RUID": 128897577,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:56"
+ },
+ {
+   "RUID": 139768629,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:31"
+ },
+ {
+   "RUID": 177119524,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:52"
+ },
+ {
+   "RUID": 150771401,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:42"
+ },
+ {
+   "RUID": 154776575,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:39"
+ },
+ {
+   "RUID": 120656258,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:37"
+ },
+ {
+   "RUID": 161555337,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:39"
+ },
+ {
+   "RUID": 194157129,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:33"
+ },
+ {
+   "RUID": 124405894,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:02"
+ },
+ {
+   "RUID": 118124149,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:40"
+ },
+ {
+   "RUID": 117063773,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:10"
+ },
+ {
+   "RUID": 115849449,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:20"
+ },
+ {
+   "RUID": 141884486,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:06"
+ },
+ {
+   "RUID": 194486654,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:05"
+ },
+ {
+   "RUID": 129018381,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:38"
+ },
+ {
+   "RUID": 157601636,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:38"
+ },
+ {
+   "RUID": 155267033,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:43"
+ },
+ {
+   "RUID": 114672481,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:42"
+ },
+ {
+   "RUID": 135209325,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:23"
+ },
+ {
+   "RUID": 162576202,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:54"
+ },
+ {
+   "RUID": 140789331,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:03"
+ },
+ {
+   "RUID": 175385140,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:37"
+ },
+ {
+   "RUID": 190887563,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:24"
+ },
+ {
+   "RUID": 180304284,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:19"
+ },
+ {
+   "RUID": 103574019,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:32"
+ },
+ {
+   "RUID": 179859644,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:40"
+ },
+ {
+   "RUID": 173951614,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:51"
+ },
+ {
+   "RUID": 167661771,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:31"
+ },
+ {
+   "RUID": 198598266,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:08"
+ },
+ {
+   "RUID": 166342170,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:21"
+ },
+ {
+   "RUID": 163718758,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:04"
+ },
+ {
+   "RUID": 142549150,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:19"
+ },
+ {
+   "RUID": 101640638,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:51"
+ },
+ {
+   "RUID": 176503833,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:40"
+ },
+ {
+   "RUID": 190461339,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:53"
+ },
+ {
+   "RUID": 185637154,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:55"
+ },
+ {
+   "RUID": 177524392,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:29"
+ },
+ {
+   "RUID": 150127861,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:43"
+ },
+ {
+   "RUID": 110360152,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:46"
+ },
+ {
+   "RUID": 106787770,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:57"
+ },
+ {
+   "RUID": 188184473,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:57"
+ },
+ {
+   "RUID": 170848701,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:33"
+ },
+ {
+   "RUID": 103242554,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:28"
+ },
+ {
+   "RUID": 111498204,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:08"
+ },
+ {
+   "RUID": 117335070,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:22"
+ },
+ {
+   "RUID": 143675480,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:56"
+ },
+ {
+   "RUID": 173296575,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:58"
+ },
+ {
+   "RUID": 142822740,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:07"
+ },
+ {
+   "RUID": 162823548,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:50"
+ },
+ {
+   "RUID": 161210710,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:37"
+ },
+ {
+   "RUID": 133394228,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:58"
+ },
+ {
+   "RUID": 185118867,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:38"
+ },
+ {
+   "RUID": 105458756,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:21"
+ },
+ {
+   "RUID": 166126376,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:29"
+ },
+ {
+   "RUID": 119524436,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:37"
+ },
+ {
+   "RUID": 120983455,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:54"
+ },
+ {
+   "RUID": 126056209,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:31"
+ },
+ {
+   "RUID": 184018008,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:19"
+ },
+ {
+   "RUID": 139780874,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:56"
+ },
+ {
+   "RUID": 130916240,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:49"
+ },
+ {
+   "RUID": 188595460,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:53"
+ },
+ {
+   "RUID": 169940353,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:23"
+ },
+ {
+   "RUID": 182734262,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:16"
+ },
+ {
+   "RUID": 114730811,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:29"
+ },
+ {
+   "RUID": 113853751,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:51"
+ },
+ {
+   "RUID": 134911839,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:04"
+ },
+ {
+   "RUID": 118258392,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:04"
+ },
+ {
+   "RUID": 150913735,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:12"
+ },
+ {
+   "RUID": 134939718,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:31"
+ },
+ {
+   "RUID": 134560698,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:55"
+ },
+ {
+   "RUID": 110723577,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:53"
+ },
+ {
+   "RUID": 145661276,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:01"
+ },
+ {
+   "RUID": 188712865,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:08"
+ },
+ {
+   "RUID": 174122181,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:50"
+ },
+ {
+   "RUID": 186127328,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:08"
+ },
+ {
+   "RUID": 100041214,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:14"
+ },
+ {
+   "RUID": 114597010,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:48"
+ },
+ {
+   "RUID": 159473604,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:32"
+ },
+ {
+   "RUID": 185366963,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:16"
+ },
+ {
+   "RUID": 171696347,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:30"
+ },
+ {
+   "RUID": 143662887,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:58"
+ },
+ {
+   "RUID": 199111483,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:12"
+ },
+ {
+   "RUID": 170955822,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:38"
+ },
+ {
+   "RUID": 196915212,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:57"
+ },
+ {
+   "RUID": 109458054,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:42"
+ },
+ {
+   "RUID": 118557622,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:15"
+ },
+ {
+   "RUID": 141838137,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:14"
+ },
+ {
+   "RUID": 127860238,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:25"
+ },
+ {
+   "RUID": 160386548,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:01"
+ },
+ {
+   "RUID": 143313182,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:37"
+ },
+ {
+   "RUID": 193277034,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:22"
+ },
+ {
+   "RUID": 122301213,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:46"
+ },
+ {
+   "RUID": 103517567,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:42"
+ },
+ {
+   "RUID": 144226531,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:36"
+ },
+ {
+   "RUID": 101741178,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:13"
+ },
+ {
+   "RUID": 153931739,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:02"
+ },
+ {
+   "RUID": 137880601,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:30"
+ },
+ {
+   "RUID": 122636661,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:48"
+ },
+ {
+   "RUID": 180526614,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:55"
+ },
+ {
+   "RUID": 109581714,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:37"
+ },
+ {
+   "RUID": 156422135,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:59"
+ },
+ {
+   "RUID": 162429795,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:00"
+ },
+ {
+   "RUID": 115715574,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:43"
+ },
+ {
+   "RUID": 117699046,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:24"
+ },
+ {
+   "RUID": 175428757,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:12"
+ },
+ {
+   "RUID": 147863151,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:53"
+ },
+ {
+   "RUID": 137603871,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:50"
+ },
+ {
+   "RUID": 153207750,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:43"
+ },
+ {
+   "RUID": 138718911,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:52"
+ },
+ {
+   "RUID": 111287060,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:04"
+ },
+ {
+   "RUID": 115101370,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:58"
+ },
+ {
+   "RUID": 190818850,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:17"
+ },
+ {
+   "RUID": 107213931,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:43"
+ },
+ {
+   "RUID": 181194026,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:12"
+ },
+ {
+   "RUID": 184874260,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:09"
+ },
+ {
+   "RUID": 143395309,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:54"
+ },
+ {
+   "RUID": 199709539,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:33"
+ },
+ {
+   "RUID": 154028355,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:33"
+ },
+ {
+   "RUID": 109098178,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:18"
+ },
+ {
+   "RUID": 120583180,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:58"
+ },
+ {
+   "RUID": 117296399,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:48"
+ },
+ {
+   "RUID": 122850307,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:00"
+ },
+ {
+   "RUID": 130752387,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:27"
+ },
+ {
+   "RUID": 120802475,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:05"
+ },
+ {
+   "RUID": 150425349,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:52"
+ },
+ {
+   "RUID": 150447020,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:04"
+ },
+ {
+   "RUID": 171676448,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:24"
+ },
+ {
+   "RUID": 169945103,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:36"
+ },
+ {
+   "RUID": 103357291,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:37"
+ },
+ {
+   "RUID": 153377113,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:41"
+ },
+ {
+   "RUID": 169858286,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:11"
+ },
+ {
+   "RUID": 149571458,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:38"
+ },
+ {
+   "RUID": 191976844,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:46"
+ },
+ {
+   "RUID": 190936678,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:06"
+ },
+ {
+   "RUID": 165905245,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:08"
+ },
+ {
+   "RUID": 182688821,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:37"
+ },
+ {
+   "RUID": 173540718,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:10"
+ },
+ {
+   "RUID": 124183635,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:29"
+ },
+ {
+   "RUID": 177659979,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:07"
+ },
+ {
+   "RUID": 137266371,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:02"
+ },
+ {
+   "RUID": 109194916,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:28"
+ },
+ {
+   "RUID": 193566104,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:20"
+ },
+ {
+   "RUID": 191339862,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:21"
+ },
+ {
+   "RUID": 161392260,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:46"
+ },
+ {
+   "RUID": 117282158,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:33"
+ },
+ {
+   "RUID": 193225581,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:59"
+ },
+ {
+   "RUID": 185447714,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:39"
+ },
+ {
+   "RUID": 160601273,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:31"
+ },
+ {
+   "RUID": 104744856,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:09"
+ },
+ {
+   "RUID": 176691166,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:51"
+ },
+ {
+   "RUID": 189893249,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:05"
+ },
+ {
+   "RUID": 105291462,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:53"
+ },
+ {
+   "RUID": 152780495,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:27"
+ },
+ {
+   "RUID": 177273603,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:43"
+ },
+ {
+   "RUID": 150389388,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:23"
+ },
+ {
+   "RUID": 195720050,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:30"
+ },
+ {
+   "RUID": 172789737,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:20"
+ },
+ {
+   "RUID": 196010557,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:17"
+ },
+ {
+   "RUID": 139982614,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:58"
+ },
+ {
+   "RUID": 135976659,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:32"
+ },
+ {
+   "RUID": 177283980,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:11"
+ },
+ {
+   "RUID": 134792018,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:38"
+ },
+ {
+   "RUID": 150799488,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:54"
+ },
+ {
+   "RUID": 196766366,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:36"
+ },
+ {
+   "RUID": 168672821,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:01"
+ },
+ {
+   "RUID": 172384035,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:18"
+ },
+ {
+   "RUID": 123034372,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:56"
+ },
+ {
+   "RUID": 162333322,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:52"
+ },
+ {
+   "RUID": 154914761,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:57"
+ },
+ {
+   "RUID": 122297003,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:35"
+ },
+ {
+   "RUID": 171753171,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:52"
+ },
+ {
+   "RUID": 173670950,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:38"
+ },
+ {
+   "RUID": 163842635,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:46"
+ },
+ {
+   "RUID": 109447738,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:11"
+ },
+ {
+   "RUID": 117503252,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:17"
+ },
+ {
+   "RUID": 193727606,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:11"
+ },
+ {
+   "RUID": 167732511,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:15"
+ },
+ {
+   "RUID": 144815883,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:03"
+ },
+ {
+   "RUID": 124017972,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:42"
+ },
+ {
+   "RUID": 110980495,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:15"
+ },
+ {
+   "RUID": 160658654,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:01"
+ },
+ {
+   "RUID": 181929260,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:05"
+ },
+ {
+   "RUID": 190011843,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:51"
+ },
+ {
+   "RUID": 147555075,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:30"
+ },
+ {
+   "RUID": 188055715,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:01"
+ },
+ {
+   "RUID": 149174680,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:09"
+ },
+ {
+   "RUID": 189598402,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:03"
+ },
+ {
+   "RUID": 165724059,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:10"
+ },
+ {
+   "RUID": 199685659,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:14"
+ },
+ {
+   "RUID": 102528313,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:40"
+ },
+ {
+   "RUID": 125459489,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:33"
+ },
+ {
+   "RUID": 160735966,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:37"
+ },
+ {
+   "RUID": 191304092,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:25"
+ },
+ {
+   "RUID": 191453213,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:22"
+ },
+ {
+   "RUID": 132723681,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:07"
+ },
+ {
+   "RUID": 173916079,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:33"
+ },
+ {
+   "RUID": 143082451,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:50"
+ },
+ {
+   "RUID": 135900177,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:12"
+ },
+ {
+   "RUID": 195258462,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:46"
+ },
+ {
+   "RUID": 170706819,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:25"
+ },
+ {
+   "RUID": 170695340,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:10"
+ },
+ {
+   "RUID": 116604592,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:29"
+ },
+ {
+   "RUID": 149851178,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:54"
+ },
+ {
+   "RUID": 193363801,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:52"
+ },
+ {
+   "RUID": 107801600,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:38"
+ },
+ {
+   "RUID": 127682472,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:19"
+ },
+ {
+   "RUID": 194754609,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:16"
+ },
+ {
+   "RUID": 161365198,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:55"
+ },
+ {
+   "RUID": 103915838,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:09"
+ },
+ {
+   "RUID": 164545438,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:08"
+ },
+ {
+   "RUID": 197286837,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:30"
+ },
+ {
+   "RUID": 101264136,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:48"
+ },
+ {
+   "RUID": 119547508,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:33"
+ },
+ {
+   "RUID": 171910577,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:50"
+ },
+ {
+   "RUID": 194686638,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:59"
+ },
+ {
+   "RUID": 149798753,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:20"
+ },
+ {
+   "RUID": 105287748,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:17"
+ },
+ {
+   "RUID": 120482703,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:59"
+ },
+ {
+   "RUID": 120116214,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:48"
+ },
+ {
+   "RUID": 159379302,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:10"
+ },
+ {
+   "RUID": 122901570,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:00"
+ },
+ {
+   "RUID": 153978682,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:08"
+ },
+ {
+   "RUID": 165364889,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:28"
+ },
+ {
+   "RUID": 139539495,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:22"
+ },
+ {
+   "RUID": 157662110,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:54"
+ },
+ {
+   "RUID": 146262438,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:48"
+ },
+ {
+   "RUID": 122541304,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:28"
+ },
+ {
+   "RUID": 157270058,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:17"
+ },
+ {
+   "RUID": 103384997,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:10"
+ },
+ {
+   "RUID": 114943865,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:24"
+ },
+ {
+   "RUID": 138285920,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:49"
+ },
+ {
+   "RUID": 190625401,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:34"
+ },
+ {
+   "RUID": 181176450,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:41"
+ },
+ {
+   "RUID": 167946311,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:12"
+ },
+ {
+   "RUID": 101455749,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:30"
+ },
+ {
+   "RUID": 136023234,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:25"
+ },
+ {
+   "RUID": 147604812,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:28"
+ },
+ {
+   "RUID": 144843884,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:28"
+ },
+ {
+   "RUID": 143267756,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:42"
+ },
+ {
+   "RUID": 157356791,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:43"
+ },
+ {
+   "RUID": 145832603,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:45"
+ },
+ {
+   "RUID": 185102283,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:13"
+ },
+ {
+   "RUID": 119188436,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:06"
+ },
+ {
+   "RUID": 124604664,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:26"
+ },
+ {
+   "RUID": 194287704,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:29"
+ },
+ {
+   "RUID": 174630356,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:15"
+ },
+ {
+   "RUID": 143742011,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:04"
+ },
+ {
+   "RUID": 102608845,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:54"
+ },
+ {
+   "RUID": 160662185,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:59"
+ },
+ {
+   "RUID": 184778890,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:46"
+ },
+ {
+   "RUID": 149668362,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:51"
+ },
+ {
+   "RUID": 197621818,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:42"
+ },
+ {
+   "RUID": 121007779,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:35"
+ },
+ {
+   "RUID": 185234548,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:41"
+ },
+ {
+   "RUID": 115519029,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:06"
+ },
+ {
+   "RUID": 101989395,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:08"
+ },
+ {
+   "RUID": 164588204,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:45"
+ },
+ {
+   "RUID": 153272484,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:32"
+ },
+ {
+   "RUID": 135205025,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:50"
+ },
+ {
+   "RUID": 158102139,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:40"
+ },
+ {
+   "RUID": 158761057,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:44"
+ },
+ {
+   "RUID": 143064756,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:23"
+ },
+ {
+   "RUID": 169964728,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:19"
+ },
+ {
+   "RUID": 117405469,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:03"
+ },
+ {
+   "RUID": 157803508,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:05"
+ },
+ {
+   "RUID": 117006776,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:52"
+ },
+ {
+   "RUID": 141449171,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:41"
+ },
+ {
+   "RUID": 169164329,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:42"
+ },
+ {
+   "RUID": 161940141,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:17"
+ },
+ {
+   "RUID": 141739624,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:24"
+ },
+ {
+   "RUID": 184399945,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:42"
+ },
+ {
+   "RUID": 190539937,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "16:59"
+ },
+ {
+   "RUID": 165540985,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:55"
+ },
+ {
+   "RUID": 118355994,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:09"
+ },
+ {
+   "RUID": 142822014,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:16"
+ },
+ {
+   "RUID": 163399465,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:18"
+ },
+ {
+   "RUID": 185933692,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:51"
+ },
+ {
+   "RUID": 101818299,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:10"
+ },
+ {
+   "RUID": 190332094,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:12"
+ },
+ {
+   "RUID": 162634161,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:28"
+ },
+ {
+   "RUID": 182917012,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:08"
+ },
+ {
+   "RUID": 128588663,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:09"
+ },
+ {
+   "RUID": 180035908,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:45"
+ },
+ {
+   "RUID": 132006535,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:56"
+ },
+ {
+   "RUID": 118387454,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:35"
+ },
+ {
+   "RUID": 110277423,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:27"
+ },
+ {
+   "RUID": 180045179,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:22"
+ },
+ {
+   "RUID": 127224940,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:52"
+ },
+ {
+   "RUID": 183315231,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:52"
+ },
+ {
+   "RUID": 187203062,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:39"
+ },
+ {
+   "RUID": 124901104,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:57"
+ },
+ {
+   "RUID": 119837721,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "07:16"
+ },
+ {
+   "RUID": 159067685,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:27"
+ },
+ {
+   "RUID": 168077001,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:39"
+ },
+ {
+   "RUID": 186548354,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:36"
+ },
+ {
+   "RUID": 141330886,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:45"
+ },
+ {
+   "RUID": 172305227,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:03"
+ },
+ {
+   "RUID": 130450570,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:12"
+ },
+ {
+   "RUID": 108473604,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:20"
+ },
+ {
+   "RUID": 183374427,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:25"
+ },
+ {
+   "RUID": 137811340,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:33"
+ },
+ {
+   "RUID": 104560369,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:22"
+ },
+ {
+   "RUID": 137041368,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:09"
+ },
+ {
+   "RUID": 127862692,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:17"
+ },
+ {
+   "RUID": 160153492,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:25"
+ },
+ {
+   "RUID": 171741221,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:49"
+ },
+ {
+   "RUID": 199552801,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:11"
+ },
+ {
+   "RUID": 166176660,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:47"
+ },
+ {
+   "RUID": 113799363,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:01"
+ },
+ {
+   "RUID": 171607163,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:19"
+ },
+ {
+   "RUID": 158347713,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:41"
+ },
+ {
+   "RUID": 131715232,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:23"
+ },
+ {
+   "RUID": 141185027,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:55"
+ },
+ {
+   "RUID": 116310466,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:34"
+ },
+ {
+   "RUID": 115574919,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:37"
+ },
+ {
+   "RUID": 158280010,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:44"
+ },
+ {
+   "RUID": 191801661,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:44"
+ },
+ {
+   "RUID": 148126041,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:15"
+ },
+ {
+   "RUID": 103247076,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:16"
+ },
+ {
+   "RUID": 148423992,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:39"
+ },
+ {
+   "RUID": 142877352,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "09:06"
+ },
+ {
+   "RUID": 171664372,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:54"
+ },
+ {
+   "RUID": 131954035,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:18"
+ },
+ {
+   "RUID": 131607254,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:42"
+ },
+ {
+   "RUID": 128724565,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:32"
+ },
+ {
+   "RUID": 161343941,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:41"
+ },
+ {
+   "RUID": 104482481,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:05"
+ },
+ {
+   "RUID": 193317693,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:33"
+ },
+ {
+   "RUID": 188247465,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:03"
+ },
+ {
+   "RUID": 127665178,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:21"
+ },
+ {
+   "RUID": 158148053,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:45"
+ },
+ {
+   "RUID": 171435670,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:00"
+ },
+ {
+   "RUID": 185888275,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:13"
+ },
+ {
+   "RUID": 126843656,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:56"
+ },
+ {
+   "RUID": 108764132,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:50"
+ },
+ {
+   "RUID": 148864871,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:23"
+ },
+ {
+   "RUID": 175058527,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:11"
+ },
+ {
+   "RUID": 154649945,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "22:08"
+ },
+ {
+   "RUID": 126607089,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:55"
+ },
+ {
+   "RUID": 140720007,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "11:22"
+ },
+ {
+   "RUID": 154724592,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:57"
+ },
+ {
+   "RUID": 126242519,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:09"
+ },
+ {
+   "RUID": 173283493,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:02"
+ },
+ {
+   "RUID": 179175605,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "01:24"
+ },
+ {
+   "RUID": 112777303,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:53"
+ },
+ {
+   "RUID": 180835371,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "23:09"
+ },
+ {
+   "RUID": 119247062,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:32"
+ },
+ {
+   "RUID": 112832769,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "18:37"
+ },
+ {
+   "RUID": 177635021,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:20"
+ },
+ {
+   "RUID": 149733604,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:06"
+ },
+ {
+   "RUID": 168666446,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:24"
+ },
+ {
+   "RUID": 124485445,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:53"
+ },
+ {
+   "RUID": 178041985,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:58"
+ },
+ {
+   "RUID": 158274183,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:50"
+ },
+ {
+   "RUID": 102607974,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:33"
+ },
+ {
+   "RUID": 180291675,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:52"
+ },
+ {
+   "RUID": 113259654,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "06:26"
+ },
+ {
+   "RUID": 163245855,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:12"
+ },
+ {
+   "RUID": 195438927,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "19:12"
+ },
+ {
+   "RUID": 168680948,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "17:07"
+ },
+ {
+   "RUID": 122984725,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "21:28"
+ },
+ {
+   "RUID": 166796950,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:31"
+ },
+ {
+   "RUID": 119885751,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:49"
+ },
+ {
+   "RUID": 130023619,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "13:54"
+ },
+ {
+   "RUID": 116617655,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:42"
+ },
+ {
+   "RUID": 198668737,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "00:31"
+ },
+ {
+   "RUID": 189681505,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "08:48"
+ },
+ {
+   "RUID": 116642149,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:25"
+ },
+ {
+   "RUID": 117413554,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "02:18"
+ },
+ {
+   "RUID": 163576404,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "14:49"
+ },
+ {
+   "RUID": 136644888,
+   "CurrentBusStop": "Hill Center",
+   "DestinationBusStop": "Busch Suites",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "04:32"
+ },
+ {
+   "RUID": 107936757,
+   "CurrentBusStop": "Science Building",
+   "DestinationBusStop": "Hill Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:41"
+ },
+ {
+   "RUID": 130909665,
+   "CurrentBusStop": "Library of Science",
+   "DestinationBusStop": "Werblin Back Entrance",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "20:19"
+ },
+ {
+   "RUID": 146097055,
+   "CurrentBusStop": "Busch Suites",
+   "DestinationBusStop": "Livingston Plaza",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "10:31"
+ },
+ {
+   "RUID": 115221655,
+   "CurrentBusStop": "Busch Student Center",
+   "DestinationBusStop": "Livingston Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:38"
+ },
+ {
+   "RUID": 199174074,
+   "CurrentBusStop": "Livingston Plaza",
+   "DestinationBusStop": "Library of Science",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "12:51"
+ },
+ {
+   "RUID": 190276729,
+   "CurrentBusStop": "Livingston Student Center",
+   "DestinationBusStop": "Busch Student Center",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "05:51"
+ },
+ {
+   "RUID": 159958381,
+   "CurrentBusStop": "Quads",
+   "DestinationBusStop": "Science Building",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "15:28"
+ },
+ {
+   "RUID": 142272713,
+   "CurrentBusStop": "Werblin Back Entrance",
+   "DestinationBusStop": "Quads",
+   "Route": "B",
+   "Date": "03/21/2017",
+   "Time": "03:47"
+ }
+]
