@@ -1,7 +1,7 @@
 import json
 from itertools import groupby
 
-data = json.load(open('10.json', 'r+'))
+data = json.load(open('StudentData/10.json', 'r+'))
 
 
 RUID = [item["RUID"] for item in data if "RUID" in item]
