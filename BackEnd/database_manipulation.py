@@ -1,12 +1,14 @@
 import json
 from itertools import groupby
 
-data = json.load(open('10.json','r+'))
+data = json.load(open('10.json', 'r+'))
 
 
 RUID = [item["RUID"] for item in data if "RUID" in item]
-CurrentBusStop = [item["CurrentBusStop"] for item in data if "CurrentBusStop" in item]
-DestinationBusStop = [item["DestinationBusStop"] for item in data if "DestinationBusStop" in item]
+CurrentBusStop = [item["CurrentBusStop"]
+                  for item in data if "CurrentBusStop" in item]
+DestinationBusStop = [item["DestinationBusStop"]
+                      for item in data if "DestinationBusStop" in item]
 Time = [item["Time"] for item in data if "Time" in item]
 
 RUID_Sorted = sorted(RUID)
@@ -18,10 +20,7 @@ for a in range(personal_requests):
     RUID_Sorted[a] = int(RUID_Sorted[a])
 
 # find duplicates
-
 list_counter = [len(list(group)) for key, group in groupby(RUID_Sorted)]
-
-c = 0
 
 array = []
 for i, j in enumerate(list_counter):
