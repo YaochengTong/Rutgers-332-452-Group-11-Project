@@ -9,4 +9,4 @@ If applicable, the main functionality will include:
 2. Logging in to check. (May use dummy variables)
 3. Sending message to drivers.
 
-Important: Since the limitation of time of team member developing app (ONE NOW), dynamic data and more features will be added in future weeks.
+Important: Since the limitation of time of team member developing web (ONE NO, WAS TWO, THE OTHER ONE WITHDREW THE CLASS), linking dynamic data and more features will try to be added in future weeks.
