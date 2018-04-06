@@ -8,7 +8,7 @@ Rutgers University Software Engineering class, spring 2018
 
 **This is repository for daily updating, not for any submission activity!**
 
-please check our DemoFile repository for more detail at https://github.com/YaochengTong/DemoFiles
+please check our DemoFile repository for more detail at [DemoFiles](https://github.com/YaochengTong/DemoFiles)
 
 ### Project Tasks
 
