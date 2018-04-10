@@ -2,7 +2,7 @@ import json
 import matplotlib.pyplot as plt
 
 data = json.load(open('10000Student.json'))
-
+# try implementing with firebase and get connected with website
 RUID = [item["RUID"] for item in data if "RUID" in item]
 CurrentBusStop = [item["CurrentBusStop"]
                   for item in data if "CurrentBusStop" in item]
@@ -58,10 +58,10 @@ for index in range(len(y)):
         A = 5
     B.append(A)
 
-    flag = index +1
-    print "Time hour from:", index,': 00',' to ',flag,': 00'
+    flag = index + 1
+    print "Time hour from:", index, ': 00', ' to ', flag, ': 00'
     # print "Total Requests in this Hour is : ",y[index]
-    print "Arranged bus dispatch rate : ", 'Every',B[index], 'minutes' "\n"
+    print "Arranged bus dispatch rate : ", 'Every', B[index], 'minutes' "\n"
 
 
 C = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
