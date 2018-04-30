@@ -15,8 +15,8 @@ please check our DemoFile repository for more detail at [DemoFiles](https://gith
 * [x] Integration with Firebase
 * [x] Data visualization and analyzation
 * [x] App UI development
-* [ ] App UI,integration combine
-* [ ] Web integration with Firebase
-* [ ] Full integration of project
-* [ ] Final test, real test
+* [x] App UI,integration combine
+* [x] Web integration with Firebase
+* [x] Full integration of project
+* [x] Final test, real test
 * [ ] publish
