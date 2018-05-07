@@ -9,14 +9,3 @@ Rutgers University Software Engineering class, spring 2018
 **This is repository for daily updating, not for any submission activity!**
 
 please check our DemoFile repository for more detail at [DemoFiles](https://github.com/YaochengTong/DemoFiles)
-
-### Project Tasks
-
-* [x] Integration with Firebase
-* [x] Data visualization and analyzation
-* [x] App UI development
-* [x] App UI,integration combine
-* [x] Web integration with Firebase
-* [x] Full integration of project
-* [x] Final test, real test
-* [x] publish
