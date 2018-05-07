@@ -19,4 +19,4 @@ please check our DemoFile repository for more detail at [DemoFiles](https://gith
 * [x] Web integration with Firebase
 * [x] Full integration of project
 * [x] Final test, real test
-* [ ] publish
+* [x] publish
